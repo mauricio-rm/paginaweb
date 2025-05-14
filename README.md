@@ -2,15 +2,15 @@
 
 Página principal creada con Markdown
 
-## 📸 Imagen destacada
+##  Imagen destacada
 
 ![Imagen pagina](/img/t2.png)
 
-## 🔗 Segunda página
+##  Segunda página
 
 [Ir a la segunda página](segundo.md)
 
-## 🧥 Tabla markdown
+##  Tabla markdown
 
 | Nombre   | Apellido   | Telf    |
 |----------|------------|---------|
