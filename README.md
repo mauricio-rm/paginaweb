@@ -1,6 +1,6 @@
 # PAGINA WEB MARKDOWN
 
-Página principal creada con Markdown
+Página principal creada con Markdown 
 
 ##  Imagen destacada
 
