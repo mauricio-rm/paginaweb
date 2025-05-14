@@ -1,10 +1,19 @@
-# Mi primer documento Markdown
+# PAGINA WEB MARKDOWN
 
-* [Este](https://www.markdownguide.org/basic-syntax/) es un enlace a una web en la que se puede aprender markdown.
-* Hay un montón de recursos más como [este otro](https://www.markdowntutorial.com/) por ejemplo. En este caso es un tutorial interactivo!
-* Último punto en **negrita** y en *cursiva*
+Página principal creada con Markdown
 
-> ¿Sabes que este mismo documento está hecho en **markdown**?
+## 📸 Imagen destacada
 
-Podemos poner incluso imágenes!  
-![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
+![Imagen pagina](./img/t2.jpg)
+
+## 🔗 Segunda página
+
+[Ir a la segunda página](segundo.md)
+
+## 🧥 Tabla markdown
+
+| Nombre   | Apellido   | Telf    |
+|----------|------------|---------|
+| Omar     | Marquez    | 591285  |
+| Pablo    | Domingo    | 185281  |
+| Javier   | Ramos      | 135885  |
