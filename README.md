@@ -4,7 +4,7 @@ Página principal creada con Markdown
 
 ## 📸 Imagen destacada
 
-![Imagen pagina](./img/t2.jpg)
+![Imagen pagina](/img/t2.jpg)
 
 ## 🔗 Segunda página
 
